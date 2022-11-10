@@ -1,0 +1,129 @@
+body
+{
+	background: pink;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+div 
+{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+.a1
+{
+	border: 2px solid darkred;
+	background-color: white;
+	height:900px;
+	width: 55%;
+}
+
+.a2
+{
+	border: 2px solid blue;
+	margin-left: 20px;
+	background-color: white;
+	width: 95%;
+	height: 21%;
+}
+
+
+.a3
+{
+	border: 2px solid blue;
+	margin-left: 20px;
+	background-color: white;
+	width: 95%;
+	height: 24%;
+}
+
+
+.a4
+{
+	border: 2px solid blue;
+	margin-left: 20px;
+	background-color: white;
+	width: 95%;
+	height: 24%;
+}
+
+.a5
+{
+	border: 2px solid blue;
+	margin-left: 20px;
+	background-color: white;
+	width: 95%;
+	height: 24%;
+}
+
+.a22
+{
+	border: 2px solid white;
+	margin-left: 20px;
+	background-color: white;
+	width: 70%;
+	height: 50%;
+	float: left;
+}
+.a222
+{
+	border: 2px solid white;
+	background-color: white;
+	width: 25%;
+	height: 50%;
+	float: left;
+}
+
+.a33
+{
+	border: 2px solid white;
+	margin-left: 20px;
+	background-color: white;
+	width: 25%;
+	height: 55%;
+	float: left;
+}
+.a333
+{
+	border: 2px solid white;
+	background-color: white;
+	width: 70%;
+	height: 55%;
+	float: left;
+}
+.a44
+{
+	border: 2px solid white;
+	margin-left: 20px;
+	background-color: white;
+	width: 25%;
+	height: 55%;
+	float: left;
+}
+.a444
+{
+	border: 2px solid white;
+	background-color: white;
+	width: 70%;
+	height: 55%;
+	float: left;
+}
+.a55
+{
+	border: 2px solid white;
+	margin-left: 20px;
+	background-color: white;
+	width: 25%;
+	height: 55%;
+	float: left;
+}
+.a555
+{
+	border: 2px solid white;
+	background-color: white;
+	width: 70%;
+	height: 55%;
+	float: left;
+}
