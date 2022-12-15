@@ -1,0 +1,37 @@
+body
+{
+	background-color: grey;
+	text-align: center;
+	margin: 60px;
+}
+
+div
+{
+	height: 300px;
+	width: 280px;
+	border: 2px solid blueviolet;
+	float: left;
+	margin-right: 20px;
+}
+
+.c1
+{
+	background-color: green;
+}
+
+.c2
+{
+	background-color: white;
+}
+
+.c3
+{
+	background-color: darkred;
+}
+
+.c4
+{
+	clear: both;
+	background-color: blue;
+	margin-right: 20px;
+}
